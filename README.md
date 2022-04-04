@@ -16,13 +16,6 @@ Sean Kross
 License
 These course materials are available under the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) license (http://www.tldrlegal.com/l/CC-NC-SA).
 
-Principle of Data Science - Tutorial 2 submission
-
-Student ID: S2132021
-
-Link of data sharing repository:
-https://github.com/Jennieus/introdatascience
-
 
 
 
